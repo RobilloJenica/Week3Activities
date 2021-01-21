@@ -14,7 +14,7 @@ Let us always pray for our health.
 <br>
 
 <p align="center">
-<img src = "C:\Users\ACER\Documents\week3\sun.jpg" width = "210", length = "210"></img>
+<img src = "sun.jpg" width = "210", length = "210"></img>
 <br>
 The sunshine is so bright 
 <br>
@@ -22,7 +22,7 @@ It gives hope to everyone
 <br> 
 <br> 
 
-<img src = "C:\Users\ACER\Documents\week3\circle.jpg" width = "300", length = "300"></img>
+<img src = "circle.jpg" width = "300", length = "300"></img>
 <br>
 It's a small 
 <br>
@@ -34,7 +34,7 @@ It's a small
 
 <p align = "right">
 <font face = Helvetica>
-<img src = "C:\Users\ACER\Documents\week3\smiley.jpg" width = "450", length ="450"></img>
+<img src = "smiley.jpg" width = "450", length ="450"></img>
 <br>
 <b> Always wear a smile, </b> 
 <br>
@@ -88,7 +88,7 @@ Andy Andrews </b> </font>
 <br>
 <br>
 <p align = "right">
-<img src = "C:\Users\ACER\Documents\week3\tia.jpg" width = "210", length = "210"></img>
+<img src = "tia.jpg" width = "210", length = "210"></img>
 <br>
 <br>
 <p align = "center">
